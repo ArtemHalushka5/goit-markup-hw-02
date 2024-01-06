@@ -1,5 +1,5 @@
 * {
-  list-style: none;
+  list-style: none; 
   text-decoration: none;
 }
 body {
@@ -11,6 +11,7 @@ body {
   font-weight: 400;
   letter-spacing: 0.32px;
   line-height: 150%;
+  
 }
 h3{
     color:#2E2F42;
@@ -37,15 +38,16 @@ letter-spacing: 0.4px;
     color:#2E2F42;
     font-size: 16px;
 font-weight: 500;
-line-height:150%;
+line-height:1.5;
+letter-spacing: 0.02em
 }
 
 .navigation:active, .navigation:hover , .address:active , .address:hover{
    color:#404bbf;
 }
 .address {
-    
     font-style: normal;
+  color: #434455;
 }
 .sec1{
     background-color:#2E2F42;
@@ -76,9 +78,6 @@ letter-spacing: 1.12px;
 .sec3 {
     background-color: #F4F4FD;
 }
-
-
-
 .footer {
     background-color: #2E2F42;
 }
