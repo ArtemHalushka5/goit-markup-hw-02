@@ -31,7 +31,7 @@ line-height:1.5;
 letter-spacing: 0.02em
 }
 
-.navigation:focus, .navigation:hover , .addressmail:focus , .addressmail:hover{
+.navigation:focus, .navigation:hover {
    color:#404bbf;
 }
 .navigation:focus{
@@ -43,6 +43,9 @@ letter-spacing: 0.02em
 }
 .addressmail {
     color:#434455
+}
+.addressmail:focus , .addressmail:hover{
+    color:#404bbf;
 }
 .primaa{
     background-color:#2E2F42;
