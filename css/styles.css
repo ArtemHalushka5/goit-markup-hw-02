@@ -31,7 +31,7 @@ line-height:1.5;
 letter-spacing: 0.02em
 }
 
-.navigation:focus, .navigation:hover , .address:focus , .address:hover{
+.navigation:focus, .navigation:hover , .addressmail:focus , .addressmail:hover{
    color:#404bbf;
 }
 .navigation:focus{
