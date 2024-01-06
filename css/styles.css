@@ -62,15 +62,17 @@ line-height: 107.143%;
 letter-spacing: 1.12px;
 }
 .button {
-    background-color:#4d5ae5;
-    color: #FFF;
-    text-align: center;
-    width: 169px;
-    height: 56px;
-    font-weight: 500;
-    letter-spacing: 0.64px;
-    cursor:pointer;
+    background-color: #4D5AE5;
     font-family:"Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+.button:hover, .button:active {
+    background-color: #404BBF
+
 }
 .terza {
     background-color: #F4F4FD;
