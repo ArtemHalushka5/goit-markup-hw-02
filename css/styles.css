@@ -1,7 +1,4 @@
-* {
-  list-style: none; 
-  text-decoration: none;
-}
+
 body {
  background-color: #FFF;
     color: #434455;
@@ -36,6 +33,9 @@ letter-spacing: 0.02em
 
 .navigation:focus, .navigation:hover , .address:focus , .address:hover{
    color:#404bbf;
+}
+.navigation:focus{
+    color:#404bbf;
 }
 .address {
     font-style: normal;
