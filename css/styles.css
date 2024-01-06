@@ -37,7 +37,7 @@ letter-spacing: 0.02em
 .navigation:focus{
     color:#404bbf;
 }
-.address {
+.nav-address{
     font-style: normal;
 }
 .primaa{
