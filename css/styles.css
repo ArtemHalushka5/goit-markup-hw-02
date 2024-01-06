@@ -34,7 +34,7 @@ line-height:1.5;
 letter-spacing: 0.02em
 }
 
-.navigation:active, .navigation:hover , .address:active , .address:hover{
+.navigation:focus, .navigation:hover , .address:focus , .address:hover{
    color:#404bbf;
 }
 .address {
