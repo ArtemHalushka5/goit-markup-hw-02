@@ -74,17 +74,25 @@ letter-spacing: 1.12px;
 .sec3 {
     background-color: #F4F4FD;
 }
+.title2 {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42 ;
+}
 .footer {
     background-color: #2E2F42;
 }
 .studio-footer{
-    color: #F4F4FD;
 font-size: 18px;
 font-family: "raleway";
 font-weight: 700;
 line-height: 116.667% 
 letter-spacing: 0.54px;
 text-transform: uppercase;
+color: #f4f4fd;
 }
 .p-footer{
     color: #F4F4FD;
