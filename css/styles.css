@@ -13,15 +13,7 @@ body {
   line-height: 150%;
   
 }
-h3{
-    color:#2E2F42;
-font-size: 20px;
-font-weight: 500;
-line-height: 120%; 
-letter-spacing: 0.4px;
-}
 
- 
 .logo {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
@@ -51,11 +43,15 @@ letter-spacing: 0.02em
 }
 .sec1{
     background-color:#2E2F42;
-   
-
 }
 /* Header 1 */
-
+h3{
+    color:#2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height: 120%; 
+letter-spacing: 0.4px;
+}
 .title1 {
     color: var(--WHITE, #FFF);
 text-align: center;
