@@ -32,19 +32,13 @@ letter-spacing: 0.4px;
   text-transform: uppercase;
 }
 .studio {
-     color:#2E2F42;
-font-family:"Raleway", sans-serif;
-font-size: 18px;
-font-weight: 700;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform:uppercase;
+     color:#2e2f42;
 }
 .navigation {
     color:#2E2F42;
     font-size: 16px;
 font-weight: 500;
-line-height:150%
+line-height:150%;
 }
 
 .navigation:active, .navigation:hover , .address:active , .address:hover{
