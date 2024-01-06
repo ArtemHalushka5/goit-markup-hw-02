@@ -69,6 +69,7 @@ letter-spacing: 1.12px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    cursor: pointer
 }
 .button:hover, .button:active {
     background-color: #404BBF
