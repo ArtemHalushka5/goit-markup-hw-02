@@ -52,7 +52,7 @@ font-weight: 500;
 line-height: 120%; 
 letter-spacing: 0.4px;
 }
-.title1 {
+.hero {
     color: var(--WHITE, #FFF);
 text-align: center;
 font-size: 56px;
