@@ -49,7 +49,7 @@ line-height:150%
 
 .navigation:active, .navigation:hover , .address:active , .address:hover{
     text-decoration:underline;
-    color: gold
+    color:#404bbf;
 }
 .address {
     color: #434455;
