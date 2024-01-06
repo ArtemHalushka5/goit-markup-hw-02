@@ -77,6 +77,9 @@ letter-spacing: 1.12px;
 .teamspisok{
     background-color: #FFFFFF;
 }
+.text {
+    font-size: 16px
+}
 .tit {
     font-size: 36px;
     line-height: 1.11;
